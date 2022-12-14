@@ -20,7 +20,7 @@ Begin Window wConverterMain
    MinimumHeight   =   800
    MinimumWidth    =   1000
    Resizeable      =   False
-   Title           =   "English SPaG taxonomy importer"
+   Title           =   "English language and literature taxonomy importer"
    Type            =   0
    Visible         =   True
    Width           =   1000
